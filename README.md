@@ -1,6 +1,6 @@
 ## <b>installation</b>
 ```
-rm -rf COOKIES 
+rm -rf AUTO-COOKIES 
 
 git clone https://github.com/PSYCHO-PICCHI/AUTO-COOKIES.git
 
